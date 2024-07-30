@@ -2,3 +2,4 @@ Course resources
 The resources for this course can be obtained by downloading the zip file attached to this lecture.
 
 Resources for this lecture
+https://starttechacademy.com/z-resources-alteryx-masterclass-for-data-analytics-etl-and-reporting/
